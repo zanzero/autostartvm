@@ -1,2 +1,2 @@
 # autostartvm
-Check VM Power Status
+Check VM Power Status + LINE Notify
